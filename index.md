@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<fig0.html>
 <html>
 <body>
 <h1>Hello World</h1>
